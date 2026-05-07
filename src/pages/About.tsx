@@ -117,7 +117,7 @@ export function About() {
                 <div className="bg-brand-gold aspect-square rounded-full flex items-center justify-center overflow-hidden border-8 border-white/10 shadow-2xl">
                    {/* Placeholder for Tarun Pal image */}
                    <img 
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1000" 
+                    src="https://kommodo.ai/i/8IUSS6AcfD8nLb5I8Rq5?auto=format&fit=crop&q=80&w=1000" 
                     alt="Tarun Pal" 
                     className="w-full h-full object-cover grayscale"
                     referrerPolicy="no-referrer"
